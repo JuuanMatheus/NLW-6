@@ -8,8 +8,6 @@ Em busca de práticar e evoluir o conhecimento de desenvolvimento web, resolvi p
 
 ## :computer: Origin Six
 
-![GitHub](https://github.com/rocketseat-education/nlw-06-origin/blob/main/.github/preview.png)
-
 [OriginSix](https://juuanmatheus.github.io/NLW-6/) é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
 
 ## :robot: Tecnologias
