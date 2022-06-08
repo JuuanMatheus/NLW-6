@@ -1,7 +1,7 @@
-# OriginSix
+# OriginSix1
 
 ![GitHub](https://img.shields.io/github/license/JuuanMatheus/NLW-6)
- 
+
 ## :test_tube: Sobre o Projeto
 
 Em busca de práticar e evoluir o conhecimento de desenvolvimento web, resolvi participar da Next Level Week, evento no qual desenvolvemos um site com uma semana imersiva cheia de aprendizados.
@@ -16,16 +16,11 @@ Em busca de práticar e evoluir o conhecimento de desenvolvimento web, resolvi p
 :large_blue_circle: CSS
 :yellow_circle: JS
 
-## :rocket: Autor 
+## :rocket: Autor
 
-* Empresa realizadora do Projeto: [Rocketseat](https://rocketseat.com.br/)
-* Instrutor do Projeto: [Mayk Brito](https://github.com/maykbrito)
+- Empresa realizadora do Projeto: [Rocketseat](https://rocketseat.com.br/)
+- Instrutor do Projeto: [Mayk Brito](https://github.com/maykbrito)
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/JuuanMatheus/NLW-6/blob/main/LICENSE) para mais detalhes.
-
-
-
-
-
