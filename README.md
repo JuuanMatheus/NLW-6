@@ -1,4 +1,4 @@
-# OriginSix1
+# OriginSix
 
 ![GitHub](https://img.shields.io/github/license/JuuanMatheus/NLW-6)
 
