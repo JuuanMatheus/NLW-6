@@ -23,4 +23,4 @@ Em busca de práticar e evoluir o conhecimento de desenvolvimento web, resolvi p
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/JuuanMatheus/NLW-6/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/JuuanMatheus/OriginSix/blob/main/LICENSE) para mais detalhes.
