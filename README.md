@@ -6,7 +6,7 @@
 
 Em busca de práticar e evoluir o conhecimento de desenvolvimento web, resolvi participar da Next Level Week, evento no qual desenvolvemos um site com uma semana imersiva cheia de aprendizados.
 
-## :computer: Origin Six
+## :iphone: Origin Six
 
 [OriginSix](https://juuanmatheus.github.io/OriginSix/) é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
 
@@ -16,7 +16,7 @@ Em busca de práticar e evoluir o conhecimento de desenvolvimento web, resolvi p
 :large_blue_circle: CSS
 :yellow_circle: JS
 
-## :rocket: Autor
+## :violin: Autor
 
 - Empresa realizadora do Projeto: [Rocketseat](https://rocketseat.com.br/)
 - Instrutor do Projeto: [Mayk Brito](https://github.com/maykbrito)
